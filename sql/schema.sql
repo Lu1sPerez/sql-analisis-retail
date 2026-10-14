@@ -1,7 +1,6 @@
--- =====================================================================
 -- Esquema relacional: retail de indumentaria y calzado deportivo
 -- Motor: SQLite 3.35+ (compatible con PostgreSQL salvo funciones de fecha)
--- =====================================================================
+
 
 DROP TABLE IF EXISTS detalle_pedido;
 DROP TABLE IF EXISTS pedidos;
